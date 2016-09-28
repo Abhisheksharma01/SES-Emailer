@@ -1,0 +1,19 @@
+{
+  "name": "SES-Emailer",
+  "version": "1.0.0",
+  "description": "SES-Emailer",
+  "main": "index.js",
+   "repository": {
+    "type": "git"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "package.json"
+  ],
+  "author": "Abhishek Sharma",
+  "devDependencies": {
+     },
+  "dependencies": {
+    }
+}
